@@ -23,7 +23,7 @@ By the end of 60 days, I aim to:
 
 ## 🔗 Connect with Me
 
-💼 [LinkedIn](https://linkedin.com/in/shantanudhara)  
+💼 [LinkedIn](https://www.linkedin.com/in/shantanu-dhara/)  
 📧 [Email](mailto:shantanu.dhara86@gmail.com)
 
 ---
