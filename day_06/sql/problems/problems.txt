@@ -1,0 +1,43 @@
+🧩 PRACTICE QUESTIONS BY JOIN TYPE
+
+🟢 INNER JOIN
+
+Q1) Show each student’s name along with their department name.
+
+Q2) Display the student name and marks (use Students and Results tables).
+
+Q3) Show department name and the names of students who belong to that department.
+
+🟣 LEFT JOIN
+
+Q1) Display all students and their department names — include those who don’t belong to any department.
+
+Q2) List all students and their marks, even if some students don’t have marks yet.
+
+🟠 RIGHT JOIN
+
+Q1) Show all departments and their student names (include departments with no students).
+
+Q2) Display all students’ marks from the Results table — even if some marks don’t belong to a valid student.
+
+🔵 FULL OUTER JOIN
+
+Q1) Show all students and departments — include even those without any match.
+
+Q2) Combine student and result data to show all students and all marks, whether matched or not.
+
+💡 (If you use MySQL, use LEFT JOIN + RIGHT JOIN + UNION to simulate FULL OUTER JOIN)
+
+🟡 CROSS JOIN
+
+Q1) Display all possible combinations of students and departments.
+
+Q2) Generate a list of all possible student-department pairs (useful to simulate assigning students to every department).
+
+🪞 SELF JOIN
+
+Q1) Using the Managers table, display each employee with their manager’s name.
+
+Q2) Show all employees who are managers of someone.
+
+Q3) Find the employee-manager hierarchy (who reports to whom).
