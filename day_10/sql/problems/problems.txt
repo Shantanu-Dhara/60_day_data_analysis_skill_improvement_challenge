@@ -1,0 +1,13 @@
+🧩 Subquery Practice Questions
+
+1️⃣ Find customers who ordered at least one product from the ‘Fashion’ category.
+2️⃣ Find the product(s) with the highest price.
+3️⃣ Find customers who signed up before any order was placed.
+4️⃣ Display all customers who have never placed an order.
+5️⃣ Find total spending of each customer using a subquery.
+
+🧩 CTE Practice Questions
+
+1️⃣ Use a CTE to calculate total quantity ordered by each customer.
+2️⃣ Find the most expensive order (based on total price per order).
+3️⃣ Use a CTE to show each product’s total sales amount (Price × Quantity).
