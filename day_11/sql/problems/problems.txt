@@ -1,0 +1,6 @@
+🧩 The CASE statement in SQL
+
+1️⃣ Display customers with a label based on city.
+2️⃣ Show order value category (High / Medium / Low)
+3️⃣ Find customers who ordered Electronics or Fashion items
+
