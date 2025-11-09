@@ -1,4 +1,4 @@
-# 📘 Day 11 – Pizza Sales Data Analysis Using SQL
+# 📘 Day 12 – Pizza Sales Data Analysis Using SQL
 
 ### 🗓 Date
 November 9, 2025
@@ -67,6 +67,7 @@ This project not only improved my technical confidence but also showed how SQL c
 
 ### 🪄 Status
 **✔ Completed Successfully**
+
 
 
 
