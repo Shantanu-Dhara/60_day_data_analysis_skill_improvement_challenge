@@ -1,0 +1,4 @@
+CTE and Subquery
+
+01) Use a CTE to calculate total quantity ordered by each customer.
+02) Find customers who ordered at least one product from the ‘Fashion’ category.
