@@ -1,7 +1,7 @@
 # 📘 Day 18 – SQL Join & Aggregation Problem Solving
 
 ### 🗓 Date
-November 14, 2025
+November 15, 2025
 
 ---
 
@@ -34,3 +34,4 @@ November 14, 2025
 
 ### 🪄 Status
 **✔ Completed Successfully**
+
