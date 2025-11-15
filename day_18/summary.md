@@ -1,41 +1,34 @@
-# 📘 Day 18 – SQL Joins & Aggregation Practice
+# 📘 Day 18 – SQL Join & Aggregation Problem Solving
 
 ### 🗓 Date
-November 15, 2025
+November 14, 2025
 
 ---
 
 ### 🧠 Topics Practiced
-**SQL Concepts Covered:**
-
-#### 🔹 LEFT JOIN
-- Used left joins to include all records from the base table.
-- Handled missing values using `IS NULL` conditions.
-
-#### 🔹 CROSS JOIN
-- Generated all student–subject combinations for reports.
-
-#### 🔹 SELF JOIN Logic
-- Compared start and end activities for process durations.
-
-#### 🔹 GROUP BY + Aggregations
-- Calculated total and average processing time per machine.
-- Counted exam attendance per student–subject pair.
+**SQL Join & Aggregation Problems from LeetCode:**
+- Self-joins for process time calculation  
+- Left join with null handling  
+- Cross join + left join for complete matrices  
+- Join + grouping for confirmation rate  
+- Self-join + group by for manager report counts  
 
 ---
 
-### 🧩 LeetCode Problems Solved
-1. **1661. Average Time of Process per Machine** – Computed processing time using grouped differences.  
-2. **577. Employee Bonus** – Used `LEFT JOIN` and filtered bonuses below 1000.  
-3. **1280. Students and Examinations** – Applied `CROSS JOIN` + `LEFT JOIN` to count exam attempts.  
+### 🔹 Practice Problems
+1️⃣ **1661. Average Time of Process per Machine**  
+2️⃣ **577. Employee Bonus**  
+3️⃣ **1280. Students and Examinations**  
+4️⃣ **1934. Confirmation Rate**  
+5️⃣ **570. Managers with at Least 5 Direct Reports**
 
 ---
 
-### 🧠 Key Learnings
-- Cross joins help build full combinations of data for reporting.
-- Left joins are ideal for identifying missing relationships.
-- Aggregations with groupings help generate deeper insights.
-- Efficient join logic significantly improves query performance.
+### 💡 Key Learnings
+- Improved understanding of **self-joins, left joins, and cross joins**.  
+- Strengthened logic for **data aggregation and grouping**.  
+- Learned to handle **missing data** using left join and conditional logic.  
+- Enhanced ability to solve **real-world structured database problems**.
 
 ---
 
