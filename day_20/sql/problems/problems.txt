@@ -1,0 +1,7 @@
+🧩 SQL problem
+
+1️⃣ Find total spending of each customer (JOIN + Aggregation)
+2️⃣ Find the most expensive order per customer (Window Function – ROW_NUMBER)
+3️⃣ Find customers who spent above the average spending
+4️⃣ Find each product's rank based on total quantity sold (Window Function – RANK)
+5️⃣ Find customers who have never ordered anything (LEFT JOIN + NULL check)
