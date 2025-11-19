@@ -1,0 +1,12 @@
+🧩 SQL problem
+
+
+1️⃣ City with Highest Total Revenue
+
+2️⃣ Total Spending per Customer with Ranking
+
+3️⃣ Highest Revenue-Generating Category
+
+4️⃣ Month-Wise Sales Trend
+
+5️⃣ Top-Selling Products (Quantity Based)
