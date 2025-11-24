@@ -1,0 +1,12 @@
+🧩 SQL problem
+
+1️⃣ Rank customers based on total revenue
+
+2️⃣ Running total of revenue over time
+
+3️⃣ Compare each customer's revenue with the average
+
+4️⃣ Find a customer’s first order date
+
+5️⃣ Rank products based on total units sold
+
