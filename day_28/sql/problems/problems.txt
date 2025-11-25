@@ -1,0 +1,11 @@
+🧩 SQL problem
+
+1️⃣ Customers whose spending is above the average
+
+2️⃣ Ranking customers based on total revenue using a CTE
+
+3️⃣ Identify customers with more than one order
+
+4️⃣ Top-selling product in each category
+
+5️⃣ Monthly revenue summary
