@@ -1,0 +1,5 @@
+🧩 SQL Joins Problems
+
+1️⃣Show all orders with customer, product, price & total value
+2️⃣ List customers who never placed an order
+3️⃣ Find total spending per customer
