@@ -41,6 +41,7 @@ November 28, 2025
 **11) First Letter of Amit: A → LEFT**
 
 **12) Year of Order 101: 2025 → YEAR**
+
 ---
 
 ### 💡 Key Learnings
@@ -59,3 +60,4 @@ Day 31 reinforced how powerful basic Excel formulas can be when applied to real 
 
 ### 🪄 Status
 **✔ Completed Successfully**
+
