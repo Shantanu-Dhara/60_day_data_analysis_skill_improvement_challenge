@@ -1,0 +1,8 @@
+🧩 SQL problem
+
+1️⃣ Filter customers by city
+2️⃣ Find products within a price range
+3️⃣ Identify high-quantity orders
+4️⃣ Search customer names using patterns
+5️⃣ Calculate customer-wise spending using JOIN
+6️⃣ Fetch recent orders using LIMIT
