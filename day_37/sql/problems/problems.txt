@@ -1,0 +1,14 @@
+🧩 SQL problem
+
+📊 SQL Problems Solved
+
+1️⃣ Orders placed by a specific customer
+2️⃣ Unique product categories identification
+3️⃣ Product search using LIKE operator
+4️⃣ Delivered orders sorted by latest date
+5️⃣ Top 3 most expensive orders
+6️⃣ Orders with quantity in a given range
+7️⃣ Orders placed by selected customers
+8️⃣ Orders excluding delivered status
+9️⃣ Pending orders with specific quantity
+🔟 Orders placed within a date range
