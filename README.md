@@ -5,12 +5,6 @@ This repository tracks my **60-day journey** to enhance my **SQL, Python, Power 
 
 ---
 
-## 🗓️ Challenge Duration
-- **Start Date:** October 29, 2025  
-- **End Date:** December 28, 2025  
-
----
-
 ## 🎯 Goal
 
 By the end of 60 days, I aim to:
