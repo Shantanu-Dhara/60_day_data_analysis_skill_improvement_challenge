@@ -1,7 +1,7 @@
 # 📘 day 39 – sql joins & conditional logic
 
 ### 🗓 date
-december 20, 2025
+december 29, 2025
 
 ---
 
@@ -37,3 +37,4 @@ december 20, 2025
 ### 🪄 status
 
 **✔ completed successfully**
+
