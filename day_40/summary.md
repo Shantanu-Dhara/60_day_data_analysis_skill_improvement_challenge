@@ -1,7 +1,7 @@
 # 📘 Day 40 – Revisiting Excel Basics with Consistency
 
 ### 🗓 Date
-November 30, 2025
+December 30, 2025
 
 ---
 
@@ -30,3 +30,4 @@ Coming back and continuing the journey is a win in itself.
 
 ### 🪄 Status
 **✔ Continued with Commitment**
+
