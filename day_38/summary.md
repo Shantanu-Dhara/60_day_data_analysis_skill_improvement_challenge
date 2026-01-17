@@ -1,7 +1,7 @@
 # 📘 Day 30 – SQL JOINs + Google Advanced Data Analytics Certificate Earned
 
 ### 🗓 Date  
-November 27, 2025  
+December 27, 2025  
 
 ---
 
@@ -44,3 +44,4 @@ https://coursera.org/verify/professional-cert/RD2VXR2XL7NB
 
 ### 🪄 Status
 **✔ Completed Successfully**
+
