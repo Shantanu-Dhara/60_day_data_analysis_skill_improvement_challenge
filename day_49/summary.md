@@ -1,6 +1,6 @@
 # 📊 SQL Project – Online Course Enrollment System
 
-Today I completed a SQL project focused on database design and data analysis for an online course platform.
+This project is a SQL-based database system designed to manage an online course platform. It includes student registration, course management, enrollments, and feedback analysis.
 
 ---
 
