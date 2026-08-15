@@ -19,7 +19,7 @@ The project was completed using **Power BI**, **Power Query**, and **DAX** to tr
 
 ---
 
-# Business Problem Statement
+# 🎯 Business Problem Statement
 
 AtliQ Grands has been operating in the hospitality industry for over 20 years. Due to increasing competition and ineffective management decisions, the company has experienced a decline in revenue and market share in both the luxury and business hotel segments.
 
@@ -34,7 +34,7 @@ The primary objectives were to:
 
 ---
 
-# Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
 * Power BI Desktop
 * Power Query
@@ -43,9 +43,9 @@ The primary objectives were to:
 
 ---
 
-# Project Workflow
+# 🔄 Project Workflow
 
-## 1. Data Preparation & Cleaning (Power Query)
+## 🧹 1. Data Preparation & Cleaning (Power Query)
 
 Tasks performed:
 
@@ -62,17 +62,17 @@ Tasks performed:
 
 ---
 
-## 2. Data Modeling & DAX
+## 🧩 2. Data Modeling & DAX
 
 Created a Star Schema using:
 
-### Dimension Tables
+### 📅 Dimension Tables
 
 * dim_date
 * dim_hotels
 * dim_rooms
 
-### Fact Tables
+### 📊 Fact Tables
 
 * fact_bookings
 * fact_aggregated_bookings
@@ -94,11 +94,11 @@ Developed **26 DAX measures** covering:
 
 ---
 
-## 3. Power BI Dashboard
+## 📊 3. Power BI Dashboard
 
 An interactive executive dashboard was created to visualize hotel performance.
 
-### KPI Cards
+### 🎯 KPI Cards
 
 * Revenue
 * Occupancy %
@@ -107,12 +107,12 @@ An interactive executive dashboard was created to visualize hotel performance.
 * RevPAR
 * Realisation %
 
-### Interactive Filters
+### 🔎 Interactive Filters
 
 * City
 * Room Class
 
-### Dashboard Visuals
+### 📈 Dashboard Visuals
 
 * Revenue Trend (Week over Week)
 * Revenue by Hotel Category
@@ -123,23 +123,23 @@ The dashboard enables stakeholders to monitor revenue trends, compare hotel perf
 
 ---
 
-# Dashboard Highlights
+# 📌 Dashboard Highlights
 
-### Revenue Trend
+### 📈 Revenue Trend
 
 Analyzed weekly revenue performance for:
 
 * Luxury Hotels
 * Business Hotels
 
-### Revenue by Category
+### 🏨 Revenue by Category
 
 Compared revenue contribution between:
 
 * Luxury Hotels
 * Business Hotels
 
-### Revenue by City
+### 🌆 Revenue by City
 
 Compared hotel revenue across:
 
@@ -148,7 +148,7 @@ Compared hotel revenue across:
 * Hyderabad
 * Delhi
 
-### Property Performance
+### 🏆 Property Performance
 
 Compared hotels using:
 
