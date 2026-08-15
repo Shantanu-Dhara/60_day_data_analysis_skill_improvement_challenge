@@ -1,4 +1,4 @@
-# Hospitality Revenue & Performance Analysis Dashboard
+# 🏨 Hospitality Revenue & Performance Analysis Dashboard
 
 ## Project Overview
 
@@ -7,6 +7,15 @@ This project focuses on analyzing the revenue performance of **AtliQ Grands**, a
 The objective of this project is to help the revenue management team identify opportunities to improve revenue, occupancy, room utilization, and overall hotel performance through interactive business intelligence dashboards.
 
 The project was completed using **Power BI**, **Power Query**, and **DAX** to transform raw hospitality data into actionable business insights for management.
+
+---
+
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="images/dashboard.png" alt="AtliQ Grands Hospitality Revenue Dashboard" width="900">
+</p>
 
 ---
 
