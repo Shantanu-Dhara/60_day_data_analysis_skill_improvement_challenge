@@ -164,7 +164,7 @@ Compared hotels using:
 
 ---
 
-# Project Structure
+# 📂 Project Structure
 
 ```text
 hospitality-revenue-analysis/
